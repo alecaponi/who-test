@@ -3,7 +3,7 @@
   "routes": [
     {
       "route": "/admin",
-      "allowedRoles": ["who admin"]
+      "allowedRoles": ["who-admin"]
     }
   ]
 } 
