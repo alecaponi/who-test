@@ -6,7 +6,7 @@
       "allowedRoles": ["who_admin"]
     },
     {
-      "route": "/api",
+      "route": "/api/*",
       "allowedRoles": ["who_admin"]
     }
   ]
